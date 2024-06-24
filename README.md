@@ -10,6 +10,6 @@ Feel free to checkout my [personal](https://sandilemfazi.com/) website!
 - ⚡ I enjoy Watching Anime, Notion Template building, and Working on personal projects :)
 - 📫 Reach out to me: me@sandilemfazi.com
 
-## Love ❤️ God Bless ✌🏿
+## Love ❤️ & God Bless ✌🏿
 
 
