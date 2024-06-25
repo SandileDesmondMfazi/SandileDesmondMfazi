@@ -4,6 +4,8 @@
 [<img src="https://img.shields.io/twitter/follow/sandilemfazi?style=for-the-badge&logo=X&logoColor=white&color=black" />](https://x.com/sandilemfazi)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandilemfazi/)
 
+![Sandile's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandileDesmondMfazi&show_icons=true&theme=radical)
+
 Feel free to checkout my [personal](https://sandilemfazi.com/) website!
 - 🏢 Business Intelligence & Data Analytics Student [@BAC](https://www.bac.ac.bw/), in Gaborone, BW
 - 🧰 I build with: `Python`, `Jupyter Notebooks`...
