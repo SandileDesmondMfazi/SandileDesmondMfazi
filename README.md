@@ -8,7 +8,7 @@
 - 🏢 Business Intelligence & Data Analytics Student [@BAC](https://www.bac.ac.bw/), in Gaborone, BW
 - 🧰 I build with: `Python`, `Jupyter Notebooks`...
 - ⚡ I enjoy Watching Anime, Notion Template building, and Working on personal projects :)
-- 📫 Reach out to me: me@sandilemfazi.com
+- 📫 Reach out to me: sandilemfazi12@gmail.com
 
 ### Love ❤️ & God Bless ✌🏿
 
