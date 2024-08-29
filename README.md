@@ -5,7 +5,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandilemfazi/)
 
 ### Feel free to checkout my [personal](https://sandilemfazi.com/) website!
-- 🏢 Business Intelligence & Data Analytics Student [@BAC](https://www.bac.ac.bw/), in Gaborone, BW
+- 🏢 Business Intelligence & Data Analytics Graduate [@BAC](https://www.bac.ac.bw/), in Gaborone, BW
 - 🧰 I build with: `Python`, `Jupyter Notebooks`...
 - ⚡ I enjoy Watching Anime, Notion Template building, and Working on personal projects :)
 - 📫 Reach out to me: sandilemfazi12@gmail.com
