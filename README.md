@@ -13,6 +13,5 @@
 
 ### Love ❤️ & God Bless ✌🏿
 
-
-<img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SandileDesmondMfazi&show_icons=true&theme=radical" />
-<img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandileDesmondMfazi&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.shion.dev/api?username=SandileDesmondMfazi&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SandileDesmondMfazi&layout=compact&theme=radical" />
