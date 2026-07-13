@@ -4,10 +4,11 @@
 [<img src="https://img.shields.io/twitter/follow/sandilemfazi?style=for-the-badge&logo=X&logoColor=white&color=black" />](https://x.com/sandilemfazi)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandilemfazi/)
 
-### Feel free to checkout my [personal](https://sandilemfazi.com/) website!
-- 🏢 Business Intelligence & Data Analytics Graduate [@BAC](https://www.bac.ac.bw/), in Gaborone, BW
-- 🧰 I build with: `Python`, `Jupyter Notebooks`...
-- ⚡ I enjoy Watching Anime, Notion Template building, and Working on personal projects :)
+### Feel free to check out my [personal](https://sandilemfazi.com/) website!
+- 🎓 First-Class BSc (Hons) in Business Intelligence & Data Analytics | University of Sunderland / [@BAC](https://www.bac.ac.bw/)
+- 🚀 Aspiring Kaggle Grandmaster actively competing in data science challenges
+- 🧰 I build with: `Python`, `Jupyter Notebooks`, `BigQuery`, and `Looker Studio`
+- ⚡ When I'm not coding, I'm: Watching anime, designing specialized Notion templates, or studying hypermodern chess openings ♟️
 - 📫 Reach out to me: sandilemfazi12@gmail.com
 
 ### Love ❤️ & God Bless ✌🏿
